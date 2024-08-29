@@ -1,2 +1,2 @@
 #The Gallary Cafe
-[Visit the Gallary cafe](https://avantikasingh2110.github.io/HTML-Homework-1/)
+[Visit the Gallary Cafe](https://avantikasingh2110.github.io/HTML-Homework-1/)
